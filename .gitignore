@@ -1,1 +1,6 @@
 data.txt
+
+dizin/*
+!dizin/kurt.txt
+
+arap/*
